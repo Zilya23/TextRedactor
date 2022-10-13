@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRedactor", "TextRedactor\TextRedactor.csproj", "{31137DFB-7099-4C26-A36B-9AFB7453996A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31137DFB-7099-4C26-A36B-9AFB7453996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31137DFB-7099-4C26-A36B-9AFB7453996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31137DFB-7099-4C26-A36B-9AFB7453996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31137DFB-7099-4C26-A36B-9AFB7453996A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51375762-12CC-482C-8F8D-58BE1DC997AE}
+	EndGlobalSection
+EndGlobal
